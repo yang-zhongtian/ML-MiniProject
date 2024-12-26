@@ -1,0 +1,7 @@
+__pycache__
+.autodl
+.vscode
+*.wav
+*.npy
+*.keras
+*.joblib
